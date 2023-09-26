@@ -1,4 +1,4 @@
-![logo](https://github.com/mohit-talodiya/Mohit-Talodiya_9/blob/main/Purple%20and%20Blue%20Neon%20%20Gamer%20%20Youtube%20Banner.png?raw=true)
+)[logo](https://github.com/mohit-talodiya/Mohit-Talodiya_9/blob/main/Purple%20and%20Blue%20Neon%20%20Gamer%20%20Youtube%20Banner.png?raw=true)
  
 <h1 align="center">Hi 👋, I'm Mohit Talodiya</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
